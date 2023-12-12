@@ -1,0 +1,21 @@
+{
+    "name": "laserwave-mod",
+    "displayName": "LaserWave mod",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LaserWave mod",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LaserWave mod-color-theme.json"
+            }
+        ]
+    }
+}
